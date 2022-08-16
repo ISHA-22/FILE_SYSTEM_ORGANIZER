@@ -9,11 +9,8 @@ DETAILED DESCRIPTION
 
 COMMANDS TO RUN THIS PROJECT ON TERMINAL
 
-1. TO RUN tree()FUNCTION
-   node main.js tree "directoryPath"
+1. TO RUN tree()FUNCTION : node main.js tree "directoryPath"
 
-2. TO RUN help() FUNCTION
-   node main.js help 
+2. TO RUN help() FUNCTION : node main.js help 
    
-3. TO RUN organize() FUNCTION
-   node main.js organize "directoryPath"
+3. TO RUN organize() FUNCTION : node main.js organize "directoryPath"
